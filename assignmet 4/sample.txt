@@ -1,0 +1,4 @@
+Line 1
+ 1 with open('samle.txt','r')as file:
+      2     line_read = file.readlines()
+      3     
